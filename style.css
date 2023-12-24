@@ -197,13 +197,12 @@ a:hover {
     font-family: var(--font_is);
 }
 #back{
-    margin-left: 100px;
     font-size: 30px;
     display: block;
 }
 #back {
     position: fixed; 
-    left: 20px;
+    left: 30px;
 }
 #members img {
     width: 85px;
